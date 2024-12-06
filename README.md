@@ -1,0 +1,2 @@
+# Pihole-Blacklist-
+Pihole compatibility
